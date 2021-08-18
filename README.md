@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=toby0622&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=toby0622&theme=dracula&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **toby0622/toby0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
