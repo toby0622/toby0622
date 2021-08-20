@@ -3,6 +3,7 @@
 ---
 
 - 📖 I'm currently a computer science student
+- 💻 I'm currently working on C++ online judge problem solving
 - 🌱 I’m currently learning JavaScript, ReactJS & React Native for web and mobile application development
 
 ### 🏆 GitHub Profile Trophy:
