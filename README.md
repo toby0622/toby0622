@@ -6,6 +6,14 @@
 - 💻 I'm currently working on online judge problem solving using C++
 - 🌱 I’m currently learning JavaScript, ReactJS & React Native for web and mobile application development
 
+### 📱 My Contact Info:
+
+---
+
+__LinkedIn__ -> [Click Here](linkedin.com/in/祺文-鄧-9b50a1188)
+
+__Personal Website__ -> Under Construction
+
 ### 🏆 GitHub Profile Trophy:
 
 ---
