@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JavaScript, ReactJS & React Native for web and mobile application development
 - 🏖️ I’m currently pursuing Google IT Support Professional Certificate (by Google & Coursera)
 
-### 📱 My Contact Info:
+### 📱 My Contact Info
 
 ---
 
@@ -15,7 +15,7 @@ __LinkedIn__ -> [Click Here](https://www.linkedin.com/in/%E7%A5%BA%E6%96%87-%E9%
 
 __Personal Website__ -> [Click Here](https://toby0622.github.io/)
 
-### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy
 
 ---
 
@@ -23,7 +23,7 @@ __Personal Website__ -> [Click Here](https://toby0622.github.io/)
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=toby0622&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 ---
 
