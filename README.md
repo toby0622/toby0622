@@ -4,7 +4,7 @@
 
 - 📖 I'm currently a computer science student
 - 💻 I'm currently working on online judge problem solving using C++
-- 🌱 I’m currently learning JavaScript, ReactJS & React Native for web and mobile application development
+- 🌱 I’m currently learning Blockchain technology
 - 🏖️ I’m currently pursuing Google IT Support Professional Certificate (by Google & Coursera)
 
 ### 📱 My Contact Info
