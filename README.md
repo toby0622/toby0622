@@ -3,7 +3,7 @@
 ---
 
 - 📖 I'm currently a computer science student
-- 💻 I'm currently working on online judge problem solving using C++
+- 💻 I'm currently working on LeetCode practicing using C++
 - 🌱 I’m currently learning Blockchain technology
 
 ### 📱 My Contact Info
