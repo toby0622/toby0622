@@ -1,4 +1,4 @@
-### Hello everyon 👋 I'm Toby (Chi-Wen)
+### Hello everyone 👋 I'm Toby (Chi-Wen)
 
 ---
 
