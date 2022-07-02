@@ -4,7 +4,7 @@
 
 - 📖 I'm currently a computer science student
 - 💻 I'm currently working on LeetCode practicing using C++
-- 🌱 I’m currently learning Qt
+- 🌱 I’m currently learning several C++ related frameworks and applications
 
 ### 📱 My Contact Info
 
