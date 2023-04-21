@@ -2,9 +2,7 @@
 
 ---
 
-- 📖 I'm currently a computer science student
-- 💻 I'm currently working on LeetCode practicing using C++
-- 🌱 I’m currently learning game development
+- 📖 I'm currently a master student major in computer science
 
 ### 📱 My Contact Info
 
