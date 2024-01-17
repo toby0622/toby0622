@@ -8,8 +8,8 @@
 
 ---
 
-- __LinkedIn__ -> [Click Here](https://www.linkedin.com/in/%E7%A5%BA%E6%96%87-%E9%84%A7-9b50a1188/)
-- __Personal Blog & Resume__ -> Under Construction
+- __LinkedIn__ -> [Click Here](https://www.linkedin.com/in/tobythefool/)
+- __Personal Blog & Resume__ -> [Click Here](https://toby0622.github.io/)
 
 ### 🏆 GitHub Profile Trophy
 
