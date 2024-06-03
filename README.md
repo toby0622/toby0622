@@ -9,7 +9,6 @@
 ---
 
 - __LinkedIn__ -> [Click Here](https://www.linkedin.com/in/tobythefool/)
-- __Personal Blog & Resume__ -> [Click Here](https://toby0622.github.io/)
 
 ### 📊 GitHub Stats
 
